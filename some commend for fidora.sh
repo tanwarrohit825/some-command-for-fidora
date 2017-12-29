@@ -1,7 +1,7 @@
 ----------- Some Commend For Fidora -------
 
 
-----------  Change Directory ----------
+----------Change Directory ----------
 
 # change directory
 cd                 
@@ -126,7 +126,6 @@ systemctl status <prosses name >
 systemctl stop <prosses name>
 
 
----------- Add more ------
 
 
 
