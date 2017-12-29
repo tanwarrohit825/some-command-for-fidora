@@ -126,5 +126,8 @@ systemctl status <prosses name >
 systemctl stop <prosses name>
 
 
+---------- Add more ------
+
+
 
   
