@@ -125,6 +125,8 @@ systemctl status <prosses name >
 # stop the prosses 
 systemctl stop <prosses name>
 
+====-------more comming soon --------======
+
 
 
 
